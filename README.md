@@ -13,6 +13,7 @@ local host 8080
 #after that to conduct test 
 
 1st test case synario = ('/api/ping')
+
 2nd test case synario=('/api/posts?tag=tech,history&sortBy=id&direction=desc')
 
 #dependencies required
